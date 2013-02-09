@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1360238144 source:c:\users\lenovo\desktop\codeblocks\sort_string\main.cpp
+	<iostream>
+	"sort.h"
+
+1360238186 c:\users\lenovo\desktop\codeblocks\sort_string\sort.h
+	<string>
+	<fstream>
+	<iostream>
+
+1360237768 source:c:\users\lenovo\desktop\codeblocks\sort_string\sort.cpp
+	"sort.h"
+

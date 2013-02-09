@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1360375696 source:c:\users\nida\desktop\asdasd\sort.cpp
+	"sort.h"
+
+1360375698 c:\users\nida\desktop\asdasd\sort.h
+	<string>
+	<fstream>
+	<iostream>
+
+1360375681 source:c:\users\nida\desktop\asdasd\main.cpp
+	<iostream>
+	"sort.h"
+
